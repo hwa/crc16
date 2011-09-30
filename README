@@ -1,4 +1,6 @@
 CRC-CCITT (11021) algorithm
 based on crc16-table on hackage (http://http://hackage.haskell.org/package/crc16-table)
+         and crc16 python package on (http://pypi.python.org/pypi/crc16)
+
 0x01 : 0x1021
 
